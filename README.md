@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Find Your Worker**
 
-- 👨‍💻 All of my projects are available at [http://localhost:3000/#home](http://localhost:3000/#home)
+- 👨‍💻 All of my projects are available at [https://personal-portfolio-92110.web.app/](https://personal-portfolio-92110.web.app/)
 
 - 💬 Ask me about **react,next,python,css**
 
